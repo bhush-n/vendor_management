@@ -1,6 +1,32 @@
 
 # Vendor Management 
 
+## Table of contents
+
+[Introduction](https://github.com/bhush-n/vendor_management#introduction)
+
+[Roadmap](https://github.com/bhush-n/vendor_management#roadmap)
+
+[Features](https://github.com/bhush-n/vendor_management#features)
+
+[API References](https://github.com/bhush-n/vendor_management#api-reference)
+
+[Tech Stack](https://github.com/bhush-n/vendor_management#tech-stack)
+
+[Installation](https://github.com/bhush-n/vendor_management#installation)
+
+[Deployment](https://github.com/bhush-n/vendor_management#deployment)
+
+[Screenshots](https://github.com/bhush-n/vendor_management#screenshots)
+
+[Authors](https://github.com/bhush-n/vendor_management#assignment-by)
+
+[FAQ](https://github.com/bhush-n/vendor_management#faq)
+
+[Support](https://github.com/bhush-n/vendor_management#support)
+
+#Introduction
+
 The Vendor Management System, developed using Django, is a web application designed for streamlined vendor relationship management. 
 
 It encompasses functionalities for managing vendor profiles, tracking purchase orders, and evaluating vendor performance. 
@@ -136,7 +162,7 @@ To deploy this project on git
 ![App Screenshot](https://pin.it/6wpGuDB)
 
 
-## ASSIGNEMENT BY-
+## ASSIGNEMENT BY
 
 This project is assisgned by the following company:
 
