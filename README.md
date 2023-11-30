@@ -159,13 +159,13 @@ To deploy this project on git
 
 ## Screenshots
 
-![Vendor List]((https://github.com/bhush-n/vendor_management/blob/main/Vendor_list.png))
+![Vendor List]((Vendor_list.png))
 
 ![Vendor List API endpoint](vendor_list_endpoint.png)
 
-![Purchase Order API endpoint]((https://github.com/bhush-n/vendor_management/blob/main/purchaseorder_endpoint.png))
+![Purchase Order API endpoint]((purchaseorder_endpoint.png))
 
-![Historical Performance API endpoint]((https://github.com/bhush-n/vendor_management/blob/main/Historical_Performance_endpoint.png))
+![Historical Performance API endpoint]((Historical_Performance_endpoint.png))
 
 ## ASSIGNEMENT BY
 
