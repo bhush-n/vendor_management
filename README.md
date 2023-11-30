@@ -89,7 +89,7 @@ Users can create, update, and delete vendor profiles, monitor purchase orders, a
 #### Historical Performance:
 
 ```http
-GET /api/vendors/{vendor_id}/performance
+  GET /api/vendors/{vendor_id}/performance
 ```
 
 ## Tech Stack
