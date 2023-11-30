@@ -159,11 +159,19 @@ To deploy this project on git
 
 ## Screenshots
 
+__Simple HTML page for Vendor List__\
+
 ![Vendor List](Vendor_list.png)
+
+__Vendor List API Endpoint__
 
 ![Vendor List API endpoint](vendor_list_endpoint.png)
 
+__Purchase Order API Endpoint__
+
 ![Purchase Order API endpoint](purchaseorder_endpoint.png)
+
+__Historical Performance API Endpoint__
 
 ![Historical Performance API endpoint](Historical_Performance_endpoint.png)
 
