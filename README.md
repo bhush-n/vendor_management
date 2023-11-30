@@ -159,7 +159,7 @@ To deploy this project on git
 
 ## Screenshots
 
-![logo][Vendor List]((https://github.com/bhush-n/vendor_management/blob/main/Vendor_list.png))
+![logo]((https://github.com/bhush-n/vendor_management/blob/main/Vendor_list.png))
 
 ![logo][Vendor List API endpoint]((https://github.com/bhush-n/vendor_management/blob/main/vendor_list_endpoint.png))
 
