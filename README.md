@@ -1,5 +1,5 @@
 
-# Vendor Management 
+# Vendor Management System
 
 ## Table of contents
 
