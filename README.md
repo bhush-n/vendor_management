@@ -19,13 +19,13 @@
 
 [Screenshots](https://github.com/bhush-n/vendor_management#screenshots)
 
-[Authors](https://github.com/bhush-n/vendor_management#assignment-by)
+[Authors](https://github.com/bhush-n/vendor_management#assignement-by)
 
 [FAQ](https://github.com/bhush-n/vendor_management#faq)
 
 [Support](https://github.com/bhush-n/vendor_management#support)
 
-#Introduction
+## Introduction
 
 The Vendor Management System, developed using Django, is a web application designed for streamlined vendor relationship management. 
 
