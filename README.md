@@ -19,7 +19,7 @@
 
 [Screenshots](https://github.com/bhush-n/vendor_management#screenshots)
 
-[Authors](https://github.com/bhush-n/vendor_management#assignement-by)
+[Author/Company](https://github.com/bhush-n/vendor_management#assignement-by)
 
 [FAQ](https://github.com/bhush-n/vendor_management#faq)
 
