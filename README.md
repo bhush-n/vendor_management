@@ -36,21 +36,21 @@ Users can create, update, and delete vendor profiles, monitor purchase orders, a
 
 ## Roadmap
 
-- Start and Plan: Understand the project scope and set up the basic structure.
+- __Start and Plan:__ Understand the project scope and set up the basic structure.
 
-- Vendor Setup: Create a system to manage vendor information and test it.
+- __Vendor Setup:__ Create a system to manage vendor information and test it.
 
-- Purchase Order Management: Develop purchase order forms and check their functionality.
+- __Purchase Order Management:__ Develop purchase order forms and check their functionality.
 
-- Performance Evaluation: Add a scoring system for vendors and calculate scores dynamically.
+- __Performance Evaluation:__ Add a scoring system for vendors and calculate scores dynamically.
 
-- Historical Tracking: Include a history feature to track vendor performance over time.
+- __Historical Tracking:__ Include a history feature to track vendor performance over time.
 
-- Testing Phase: Conduct thorough testing, find and fix bugs.
+- __Testing Phase:__ Conduct thorough testing, find and fix bugs.
 
-- Deployment: Put the system online for use.
+- __Deployment:__ Put the system online for use.
 
-- Maintenance: Keep an eye on the system, fix issues, and assist users.
+- __Maintenance:__ Keep an eye on the system, fix issues, and assist users.
 
 ## Features
 
