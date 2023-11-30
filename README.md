@@ -179,7 +179,7 @@ __Historical Performance API Endpoint__
 
 This project is assisgned by the following company:
 
-- FATMUG, Delhi, India
+- ![FATMUG, Delhi, India](https://www.linkedin.com/company/fatmug-designs/)
 
 
 
